@@ -1,16 +1,6 @@
 # KungFuMemory2
 Java source files for the Kung Fu themed memory card game that uses the GWT framework.
 
-/**********************************************************/
-/*  Author:      Brendan Lilly                            */
-/*  Course:      CSC421                                   */
-/*  Professor:   Spiegel                                  */
-/*  Assignment:  2                                        */
-/*  Due Date:    3/22/2016                                */
-/*  Start Date:  3/10/2016                                */
-/*  Filename:    readme.txt                               */
-/*  Purpose:     Explain key points of the project 2      */
-/**********************************************************/
 
 How to Play
 -----------------------------------------------------------
@@ -19,7 +9,6 @@ The game itself is playable at :
 http://acad.kutztown.edu/~blill253/CSC421/Proj2/MemoryCard.html
 
 and the Javadocs can be found at :
-
 http://acad.kutztown.edu/~blill253/CSC421/Proj2/Javadocs/
 
 Design Decisions 
